@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ryM/1ejAhPnkSELEANQgSG9hAaU/D+1eK8Mkv/R/iQYi1gN4Mow2e3K6IGEwQ07UZzJ2nW+ZorW6cooeNZ3TpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\app-blazor-asp-net-core\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
